@@ -1,79 +1,89 @@
 # Europa Universalis IV Achievement Tracker
 
-A small, self-contained tracker for **Europa Universalis IV** achievements. A Python pipeline collects achievement data from Steam and the community wiki, merges it into a single dataset, and generates a standalone HTML page for browsing and tracking achievements.
+A standalone, offline-friendly tracker for **Europa Universalis IV** achievements. A Python script merges achievement details from the community wiki with global unlock rates from Steam and generates a single HTML page where you can track your own progress, filter by difficulty, and sort by how rare each achievement is.
 
-> Unofficial fan project. Not affiliated with or endorsed by Paradox Interactive or Valve. Europa Universalis IV and its achievements are the property of their respective owners.
+> Unofficial fan project. Not affiliated with or endorsed by Paradox Interactive or Valve. Europa Universalis IV and its achievements belong to their respective owners.
 
-<!-- TODO: add a screenshot or GIF of the tracker page here, e.g. ![Tracker screenshot](docs/screenshot.png) -->
+<!-- TODO: add a screenshot of the tracker page, e.g. ![Tracker screenshot](docs/screenshot.png) -->
 
 ## Features
 
-<!-- VERIFY: keep only the features that the page really has, and add the ones that are missing -->
+- Achievement list with name, description, and wiki difficulty (Very Easy → Insane)
+- Steam global unlock percentage for each achievement, with sorting from rarest to most common
+- Four statuses per achievement: not started, queued, in progress, completed
+- Progress bar and tabs: all, not completed, queue (queued + in progress), completed
+- Search by name or description, filter by difficulty, sort by name, rarity, or difficulty
+- Highlights the rarest achievement you have completed
+- One-click link to the wiki page for each achievement
+- Progress is stored in your browser (`localStorage`); no account or server needed
+- Responsive layout for desktop and mobile
 
-- Complete list of EU4 achievements with their descriptions and requirements
-- Data from two sources (Steam and the wiki) merged into one dataset
-- Single static HTML file: no server, database or build step needed to use it
-- Reproducible data pipeline: rerun the scripts to refresh the data after a new DLC or patch
+The interface language is Turkish.
 
 ## How it works
 
 ```
-steam.html ─┐
-            ├─> scrape.py ──> achievements.json ──> full_builder.py ──> eu4_achievement_tracker_steam.html
-wiki.html  ─┘
+wiki.html ─┐
+           ├─> full_builder.py ──> achievements.json
+steam.html ┘                   └─> eu4_achievement_tracker_steam.html
 ```
 
-<!-- VERIFY: confirm this flow. Does scrape.py read the saved steam.html / wiki.html files or download the pages itself? Does full_builder.py write the final HTML? -->
-
-1. **Collect:** `scrape.py` extracts achievement data from the Steam achievements page and the wiki page.
-2. **Merge & build:** `full_builder.py` combines the data and produces the final tracker page.
-3. **Use:** open `eu4_achievement_tracker_steam.html` in a browser.
-
-## Repository structure
-
-| File | Purpose |
-| --- | --- |
-| `scrape.py` | Extracts achievement data from the source pages |
-| `full_builder.py` | Builds the final dataset / HTML tracker |
-| `achievements.json` | Collected achievement data |
-| `eu4_achievement_tracker_steam.html` | The generated, standalone tracker page |
-
-<!-- VERIFY: correct the descriptions above if any file does something different -->
+1. `full_builder.py` parses a saved copy of the wiki achievements page (name, description, difficulty) and a saved copy of the Steam global achievements page (unlock percentages) with BeautifulSoup.
+2. Achievements are matched by a normalized name (lowercase, letters and digits only).
+3. The merged data is written to `achievements.json` and embedded into an HTML template, producing the standalone tracker page.
 
 ## Getting started
 
-### Just use the tracker
+### Use the tracker
 
-Open `eu4_achievement_tracker_steam.html` in any modern browser.
+Open `eu4_achievement_tracker_steam.html` in a modern browser.
 
 ### Rebuild the data
 
-Requirements: Python 3.10+ and the packages used by the scripts.
+The source pages are not stored in this repository. Save them yourself (browser: *Save page as… → HTML only*) into the project folder:
+
+| Save as | Source |
+| --- | --- |
+| `wiki.html` | https://eu4.paradoxwikis.com/Achievements |
+| `steam.html` | https://steamcommunity.com/stats/236850/achievements/ |
+
+Then run:
 
 ```bash
 git clone https://github.com/thatsalgoritma/Europa-Universalis-4-Achievement-Tracker.git
 cd Europa-Universalis-4-Achievement-Tracker
 
-# <!-- VERIFY: list the real dependencies, e.g. requests, beautifulsoup4, and add a requirements.txt -->
 pip install -r requirements.txt
-
-python scrape.py
 python full_builder.py
 ```
 
+Open the regenerated `eu4_achievement_tracker_steam.html`. If the wiki or Steam changes its page structure, the parsing rules in `full_builder.py` may need to be adjusted.
+
+## Repository structure
+
+| File | Purpose |
+| --- | --- |
+| `full_builder.py` | Parses the saved pages, merges the data, and generates the tracker |
+| `achievements.json` | Merged achievement data (generated) |
+| `eu4_achievement_tracker_steam.html` | The standalone tracker page (generated) |
+| `requirements.txt` | Python dependencies |
+
 ## Tech stack
 
-- Python (data collection and generation)
-- HTML, CSS, JavaScript (tracker interface)
-- JSON (data format)
+- Python 3, BeautifulSoup4
+- HTML, CSS, vanilla JavaScript (no framework, no build step)
 
-<!-- VERIFY: add libraries you actually used (e.g. BeautifulSoup, requests) -->
+## Known limitations
 
-## Notes on data sources
+- Steam percentages are matched to wiki entries by name; achievements whose names differ between the two sources may not match.
+- Data is a snapshot of the saved pages and must be rebuilt after new DLCs or patches.
+- Progress lives in one browser's `localStorage`; clearing site data or switching browsers resets it.
+- Google Fonts are loaded from the network; the page falls back to system fonts when offline.
 
-Achievement names and descriptions come from Steam and the community wiki. Please respect the terms of use and robots rules of these sites when refreshing the data, and avoid sending frequent automated requests.
+## Data and legal notes
 
-## Roadmap
-
+Achievement names, descriptions, and statistics come from the community wiki and Steam and remain the property of their owners. This repository only contains the code and a generated data snapshot for personal, non-commercial use. Please respect the terms of use of both sites when collecting data.
 
 ## License
+
+The source code is released under the [MIT License](LICENSE). The MIT license covers the code only, not the game content or third-party data.
