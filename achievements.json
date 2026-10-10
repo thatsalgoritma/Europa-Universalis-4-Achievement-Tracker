@@ -1,0 +1,3359 @@
+[
+  {
+    "id": "agoldenempire",
+    "name": "A Golden Empire",
+    "desc": "Enact a Golden Age as an Empire.",
+    "di": "VE",
+    "steam_pct": 10.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "aprotectedmarket",
+    "name": "A Protected Market",
+    "desc": "Have 100% Mercantilism.",
+    "di": "VE",
+    "steam_pct": 5.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "aaacredit",
+    "name": "AAA Credit",
+    "desc": "As a Great Power, take on over 1,000 ducats of another nation’s debt.",
+    "di": "VE",
+    "steam_pct": 7.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "allthatsthineshallbemine",
+    "name": "All That's Thine Shall Be Mine",
+    "desc": "As a Greedy ruler, take all of a nation’s ducats in a peace deal.",
+    "di": "VE",
+    "steam_pct": 12.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "coldwar",
+    "name": "Cold War",
+    "desc": "Win a war without fighting a single battle.",
+    "di": "VE",
+    "steam_pct": 19.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "combinedarms",
+    "name": "Combined Arms",
+    "desc": "Have both an Admiral and a General with a trait.",
+    "di": "VE",
+    "steam_pct": 15.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "cowardlytactics",
+    "name": "Cowardly Tactics",
+    "desc": "Have a fort and a supply depot in a mountainous province producing livestock.",
+    "di": "VE",
+    "steam_pct": 4.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "czechsandbalances",
+    "name": "Czechs and Balances",
+    "desc": "Starting as Bohemia, grant at least two privileges to each estate while having at least 50% Crown Land.",
+    "di": "E",
+    "steam_pct": 2.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "defenderofthefaith",
+    "name": "Defender of the Faith",
+    "desc": "Become Defender of the Faith.",
+    "di": "VE",
+    "steam_pct": 17.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "doublethelove",
+    "name": "Double the Love",
+    "desc": "Start with no unions and get two at the same time.",
+    "di": "VE",
+    "steam_pct": 13.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "factionalism",
+    "name": "Factionalism",
+    "desc": "Have 3 different estates in your country with at least 70% influence each.",
+    "di": "VE",
+    "steam_pct": 9.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "fortheglory",
+    "name": "For the Glory",
+    "desc": "Diplo-annex a vassal.",
+    "di": "VE",
+    "steam_pct": 20.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "foulmouthed",
+    "name": "Foul Mouthed",
+    "desc": "Scornfully insult 10 nations that border you.",
+    "di": "VE",
+    "steam_pct": 2.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "fromhumbleorigins",
+    "name": "From Humble Origins",
+    "desc": "Starting as a custom nation with no more than 50 points, have at least 2000 total development.",
+    "di": "VE",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "fullhouse",
+    "name": "Full House",
+    "desc": "Have 3 Vassals and 2 Marches at the same time.",
+    "di": "VE",
+    "steam_pct": 6.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "gentlepersuasion",
+    "name": "Gentle Persuasion",
+    "desc": "Have a Siege Specialist general win a siege in a province with a fort.",
+    "di": "VE",
+    "steam_pct": 14.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "impostersyndrome",
+    "name": "Imposter Syndrome",
+    "desc": "As Sus, have three countries hostile to you (less than 0 opinion) after they discovered your spy.",
+    "di": "VE",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "isntthisthewaytoindia",
+    "name": "Isn't this the way to India?",
+    "desc": "Discover the Americas as Castile or Spain.",
+    "di": "VE",
+    "steam_pct": 10.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "itsallaboutthemoney",
+    "name": "It's all about the money",
+    "desc": "Accumulate 3000 gold.",
+    "di": "VE",
+    "steam_pct": 17.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "libertyordeath",
+    "name": "Liberty or Death",
+    "desc": "Start as USA in 1776 bookmark and own all your cores while being at peace.",
+    "di": "VE",
+    "steam_pct": 3.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "krabater",
+    "name": "Krabater",
+    "desc": "Form the nation of Croatia and station a unit of cavalry in Stockholm.",
+    "di": "VE",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "marshymarch",
+    "name": "Marshy March",
+    "desc": "Have a march with at least two marsh provinces.",
+    "di": "VE",
+    "steam_pct": 4.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "narcissism",
+    "name": "Narcissism",
+    "desc": "Name a general after yourself and lead your army to victory.",
+    "di": "VE",
+    "steam_pct": 4.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "notsosadastate",
+    "name": "Not so sad a state...",
+    "desc": "As Portugal, have a colony in Brazil and in Africa.",
+    "di": "VE",
+    "steam_pct": 6.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "populistsingovernment",
+    "name": "Populists in Government",
+    "desc": "Switch government type through government reforms.",
+    "di": "VE",
+    "steam_pct": 7.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "pyramidofskulls",
+    "name": "Pyramid of Skulls",
+    "desc": "As a Steppe Horde, raze a province with at least 30 development.",
+    "di": "E",
+    "steam_pct": 4.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "queenofconquest",
+    "name": "Queen of Conquest",
+    "desc": "Conquer land while in a Queen Regency.",
+    "di": "VE",
+    "steam_pct": 14.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "seriously",
+    "name": "Seriously?!",
+    "desc": "Kill 10,000 men in one battle.",
+    "di": "VE",
+    "steam_pct": 23.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "subsidizemylove",
+    "name": "Subsidize my Love",
+    "desc": "Subsidize 3 different allies at least 50% of their monthly income without running a deficit.",
+    "di": "VE",
+    "steam_pct": 3.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "teardownthiswall",
+    "name": "Tear Down This Wall",
+    "desc": "Use Artillery Barrage on Berlin.",
+    "di": "VE",
+    "steam_pct": 7.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thatismine",
+    "name": "That is mine!",
+    "desc": "Conquer a province.",
+    "di": "VE",
+    "steam_pct": 26.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thatsagrandarmy",
+    "name": "That's a Grand Army",
+    "desc": "Build up your army to your country's maximum army forcelimit.",
+    "di": "VE",
+    "steam_pct": 26.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thatsagrandnavy",
+    "name": "That's a Grand Navy",
+    "desc": "Build up your navy to your country's maximum navy forcelimit.",
+    "di": "VE",
+    "steam_pct": 23.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thecontinuationofdiplomacy",
+    "name": "The Continuation of Diplomacy",
+    "desc": "Successfully use Threaten War to gain a province from another nation.",
+    "di": "VE",
+    "steam_pct": 8.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thesixnations",
+    "name": "The Six Nations",
+    "desc": "Form a Federation of at least six nations as the Iroquois.",
+    "di": "VE",
+    "steam_pct": 1.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thisismyfaith",
+    "name": "This is My Faith",
+    "desc": "Convert to Protestantism and unlock 3 Aspects of Faith.",
+    "di": "VE",
+    "steam_pct": 10.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "threetrivialtributarytribes",
+    "name": "Three Trivial Tributary Tribes",
+    "desc": "Have 3 Tribal States as Tributaries.",
+    "di": "VE",
+    "steam_pct": 5.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "timebandit",
+    "name": "Time Bandit",
+    "desc": "Successfully steal a map from another nation.",
+    "di": "VE",
+    "steam_pct": 10.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "truecatholic",
+    "name": "True Catholic",
+    "desc": "Control three Cardinals.",
+    "di": "VE",
+    "steam_pct": 18.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "trulydivineruler",
+    "name": "Truly Divine Ruler",
+    "desc": "Get a 5/5/5 Ruler or higher.",
+    "di": "VE",
+    "steam_pct": 15.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "untildeathdousapart",
+    "name": "Until death do us apart",
+    "desc": "Secure a Royal Marriage with another country.",
+    "di": "VE",
+    "steam_pct": 28.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "victorious",
+    "name": "Victorious!",
+    "desc": "Win a war.",
+    "di": "VE",
+    "steam_pct": 27.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "voltairesnightmare",
+    "name": "Voltaire's Nightmare",
+    "desc": "Have at least 100 countries in the HRE.",
+    "di": "M",
+    "steam_pct": 2.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "apileofgold",
+    "name": "A Pile of Gold",
+    "desc": "Own 10 provinces which produce gold.",
+    "di": "E",
+    "steam_pct": 6.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "absolutely",
+    "name": "Absolutely",
+    "desc": "Gain 100 Absolutism.",
+    "di": "VE",
+    "steam_pct": 7.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "abubakriisambition",
+    "name": "Abu Bakr II’s Ambition",
+    "desc": "Start as Mali and have 4 Colonial Subjects in South America.",
+    "di": "M",
+    "steam_pct": 1.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "aggressiveexpander",
+    "name": "Aggressive Expander",
+    "desc": "Own 200 provinces.",
+    "di": "M",
+    "steam_pct": 12.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "allbelongstomotherrussia",
+    "name": "All belongs to Mother Russia",
+    "desc": "Start as a country of Russian culture and form Russia.",
+    "di": "E",
+    "steam_pct": 9.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "anindustrialevolution",
+    "name": "An Industrial Evolution",
+    "desc": "As Great Britain, own all of England as core provinces and have at least 25 development in each province there.",
+    "di": "E",
+    "steam_pct": 2.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "ateverycontinent",
+    "name": "At every continent",
+    "desc": "Own one province on each continent.",
+    "di": "E",
+    "steam_pct": 9.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "azursemdelisor",
+    "name": "Azur semé de lis or",
+    "desc": "Get all the French Cores as France.",
+    "di": "E",
+    "steam_pct": 11.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "baabaablacksheep",
+    "name": "Baa Baa Black Sheep",
+    "desc": "As Qara Qoyunlu become the leading producer of wool.",
+    "di": "E",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "blackjack",
+    "name": "Black Jack",
+    "desc": "Have at least 21 different subjects with 5 cities each and without any subject having 50% or more Liberty Desire. Trade Companies do not count.",
+    "di": "M",
+    "steam_pct": 4.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "blockader",
+    "name": "Blockader",
+    "desc": "Blockade at least 10 ports of one enemy.",
+    "di": "VE",
+    "steam_pct": 14.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "bloodfortheskygod",
+    "name": "Blood for the Sky God!",
+    "desc": "As a Tengri nation, have Nahuatl as your syncretic faith.",
+    "di": "E",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "brickbybrick",
+    "name": "Brick by Brick",
+    "desc": "Starting as Denmark, enact the Unified Kalmar Monarchy government reform and own the entire Scandinavian region as your cores.",
+    "di": "E",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "brightspark",
+    "name": "Bright Spark",
+    "desc": "Have 50 Innovativeness.",
+    "di": "E",
+    "steam_pct": 10.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "brothersinarms",
+    "name": "Brothers in Arms",
+    "desc": "Win a war as a secondary participant.",
+    "di": "VE",
+    "steam_pct": 23.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "centerofattention",
+    "name": "Center of Attention",
+    "desc": "Own both a Protestant and a Reformed Center of Reformation.",
+    "di": "E",
+    "steam_pct": 5.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "chopchop",
+    "name": "Chop Chop",
+    "desc": "With only one Monarch, have six different Consorts.",
+    "di": "E",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "citiesofcibola",
+    "name": "Cities of Cibola",
+    "desc": "As a Nation that has Pueblo as primary culture, own at least 7 provinces with 10 development each.",
+    "di": "E",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "cityofcities",
+    "name": "City of Cities",
+    "desc": "Own a core province with at least 60 development.",
+    "di": "VE",
+    "steam_pct": 11.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "colonialmanagement",
+    "name": "Colonial Management",
+    "desc": "Have 3 colonial governors that were directly appointed by you at the same time.",
+    "di": "E",
+    "steam_pct": 3.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "davidthebuilder",
+    "name": "David the Builder",
+    "desc": "As Georgia have no free building slots in any owned province.",
+    "di": "VE",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "diepleasedie",
+    "name": "Die Please Die",
+    "desc": "Have a ruler with 1 or lower in all three categories who is over the age of 70.",
+    "di": "E",
+    "steam_pct": 4.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "disciplesofenlightenment",
+    "name": "Disciples of Enlightenment",
+    "desc": "Starting as Dai Viet, have 10 nations follow the Mahayana Faith by 1500.",
+    "di": "M",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "downunder",
+    "name": "Down Under",
+    "desc": "Have a colony in Australia.",
+    "di": "E",
+    "steam_pct": 11.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "dudewheresmyboat",
+    "name": "Dude, Where's my Boat?",
+    "desc": "Capture 20 boats with the Boarding Naval Doctrine.",
+    "di": "E",
+    "steam_pct": 6.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "earlymodernwarfare",
+    "name": "Early-Modern Warfare",
+    "desc": "Have 100 regiments at 100% Army Drill.",
+    "di": "E",
+    "steam_pct": 8.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "electable",
+    "name": "Electable!",
+    "desc": "Become an elector in the HRE as a country which does not start as elector.",
+    "di": "E",
+    "steam_pct": 6.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "forgivemeforihavesindh",
+    "name": "Forgive me, for I have Sindh",
+    "desc": "Become Christian as Sindh.",
+    "di": "E",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "fourfortrade",
+    "name": "Four For Trade",
+    "desc": "Form four Trade Companies and get bonus merchants from all of them.",
+    "di": "E",
+    "steam_pct": 6.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "godtier",
+    "name": "God Tier",
+    "desc": "Become a Tier 5 Defender of the Faith as a nation that is neither Catholic nor Sunni.",
+    "di": "E",
+    "steam_pct": 2.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "grandcoalition",
+    "name": "Grand Coalition",
+    "desc": "Join a coalition of more than 5 nations.",
+    "di": "E",
+    "steam_pct": 5.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "grandduchy",
+    "name": "Grand Duchy",
+    "desc": "Starting as a Duchy, have 1000 development without upgrading your government rank.",
+    "di": "M",
+    "steam_pct": 6.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "hardbargaining",
+    "name": "Hard Bargaining",
+    "desc": "As Defender of a Muslim Faith, propagate your religion in The Moluccas through trade to convert 5 provinces.",
+    "di": "E",
+    "steam_pct": 2.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "holiestromanempire",
+    "name": "Holiest Roman Empire",
+    "desc": "As either the Papal States or the Emperor, have the Papal States as an Elector while the HRE is officially Catholic.",
+    "di": "E",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "imperioespaol",
+    "name": "Imperio español",
+    "desc": "As Spain have Mexico, Panama, Havana, Cuzco in colonial Nations under you.",
+    "di": "E",
+    "steam_pct": 4.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "inthenameofthefather",
+    "name": "In the Name of the Father",
+    "desc": "As an Orthodox country, have 100 Patriarch Authority.",
+    "di": "VE",
+    "steam_pct": 7.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "itsallaboutluck",
+    "name": "It's all about luck",
+    "desc": "Win a battle against a great leader, without a leader.",
+    "di": "E",
+    "steam_pct": 16.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "justalittlepatience",
+    "name": "Just a Little Patience",
+    "desc": "Play a campaign from 1444 until 1820.",
+    "di": "VE",
+    "steam_pct": 9.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "justrestinginmyaccount",
+    "name": "Just Resting In My Account",
+    "desc": "Corrupt the officials in a Rival country.",
+    "di": "VE",
+    "steam_pct": 4.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "kowtow",
+    "name": "Kow-Tow",
+    "desc": "As Ming, have a subject from each religion group.",
+    "di": "E",
+    "steam_pct": 1.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "landofeasternjade",
+    "name": "Land of Eastern Jade",
+    "desc": "Own a core province in the Mexico region as a Buddhist country.",
+    "di": "E",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "letitgo",
+    "name": "Let It Go!",
+    "desc": "Starting as Norway, have your capital in the Canada region while not owning any province in Scandinavia and not playing as a released subject.",
+    "di": "E",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "madeinjapan",
+    "name": "Made in Japan",
+    "desc": "Embrace \"manufactories\" institution as Japan by 1655.",
+    "di": "E",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "magellansvoyage",
+    "name": "Magellan’s Voyage",
+    "desc": "Make the first circumnavigation.",
+    "di": "E",
+    "steam_pct": 6.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "maharanapratap",
+    "name": "Maharana Pratap",
+    "desc": "Start as Mewar and field an army of 20 Rajput regiments.",
+    "di": "E",
+    "steam_pct": 1.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "multiculturalism",
+    "name": "Multiculturalism",
+    "desc": "Have 4 different Cultures and 4 different religions represented in your court.",
+    "di": "E",
+    "steam_pct": 7.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "mytruefriend",
+    "name": "My True Friend",
+    "desc": "Go to war in support of a rebel faction and win, enforcing their demands.",
+    "di": "E",
+    "steam_pct": 2.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "networking",
+    "name": "Networking",
+    "desc": "Have 100 point spy networks in 3 Rival nations.",
+    "di": "E",
+    "steam_pct": 2.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "nobodywantstodie",
+    "name": "Nobody wants to die",
+    "desc": "Own Timbuktu as Songhai",
+    "di": "E",
+    "steam_pct": 2.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "ontheedgeofmadness",
+    "name": "On the Edge of Madness",
+    "desc": "As Aztecs, reach 95 Doom, then go 20 years without Doom hitting 100.",
+    "di": "E",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "onefamilytorulethemall",
+    "name": "One Family to Rule them All",
+    "desc": "Have your dynasty on 8 thrones at the same time. Client states do not count.",
+    "di": "E",
+    "steam_pct": 7.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "onekingtorule",
+    "name": "One King to Rule!",
+    "desc": "As Poland, become an absolutist monarchy, abolishing the Sejm.",
+    "di": "E",
+    "steam_pct": 3.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "onenightinparis",
+    "name": "One Night in Paris",
+    "desc": "Start as England, own and have a core on Paris (do not form another country unless it's Great Britain or the Angevin Kingdom).",
+    "di": "E",
+    "steam_pct": 6.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "piratebayofjanjira",
+    "name": "Pirate Bay of Janjira",
+    "desc": "Have more than 50% Privateering power in the Gujarat trade node",
+    "di": "E",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "purifythetemple",
+    "name": "Purify the Temple",
+    "desc": "Starting as Riga, enact the Salvific Plutocracy government reform and raid the heretic church of Rome.",
+    "di": "H",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "queenofmercury",
+    "name": "Queen of Mercury",
+    "desc": "As Kilwa, own and have cores on Zanzibar and Bombay (Thana).",
+    "di": "E",
+    "steam_pct": 1.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "relentlesspusheast",
+    "name": "Relentless Push East",
+    "desc": "Starting as a Russian nation, By 1600 own the East Siberian Coastline.",
+    "di": "M",
+    "steam_pct": 2.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "respected",
+    "name": "Respected",
+    "desc": "Have 100 prestige, 100 legitimacy and three stability.",
+    "di": "VE",
+    "steam_pct": 16.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "royalauthority",
+    "name": "Royal Authority",
+    "desc": "Install a union through a succession war.",
+    "di": "E",
+    "steam_pct": 13.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "rozwiempire",
+    "name": "Rozwi Empire",
+    "desc": "Starting as Butua, conquer Mutapa (Zimbabwe and Lower Zambezi areas).",
+    "di": "E",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "shemotisnot",
+    "name": "Shemot is Not",
+    "desc": "As a Jewish nation, convert all of Egypt to Jewish while having the Jewish Community Aspect active.",
+    "di": "M",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sikhpun",
+    "name": "Sikh Pun",
+    "desc": "Convert to Sikhism and form the nation of Punjab.",
+    "di": "E",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "straittalk",
+    "name": "Strait Talk",
+    "desc": "As Hormuz, have at least 10 diplomatic reputation",
+    "di": "E",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "surfingusa",
+    "name": "Surfing USA",
+    "desc": "Form the USA as Hawaii.",
+    "di": "E",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sweethomeqaraqorum",
+    "name": "Sweet Home Qaraqorum",
+    "desc": "As the Mughals assimilate Mongolian culture.",
+    "di": "M",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thecoinisstrongerthanthesword",
+    "name": "The Coin is Stronger than the Sword",
+    "desc": "Charter Company from an Indian nation.",
+    "di": "E",
+    "steam_pct": 4.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theemperorsnewclothes",
+    "name": "The Emperors new clothes",
+    "desc": "Overthrow Austria and become the Emperor of the Holy Roman Empire.",
+    "di": "E",
+    "steam_pct": 10.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thefivecolonies",
+    "name": "The Five Colonies",
+    "desc": "Have five colonial nations.",
+    "di": "E",
+    "steam_pct": 10.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thepowerofthree",
+    "name": "The Power of Three",
+    "desc": "Own a Crown Colony, a Self-Governing Colony and a Private Enterprise.",
+    "di": "E",
+    "steam_pct": 3.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theprincessisinthiscastle",
+    "name": "The Princess is in this Castle",
+    "desc": "As a country that does not start with a female heir, have a female heir while having a Castle in your capital (more advanced fort buildings do not count).",
+    "di": "E",
+    "steam_pct": 17.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thespicemustflow",
+    "name": "The Spice Must Flow",
+    "desc": "Form the nation of Malaya.",
+    "di": "M",
+    "steam_pct": 3.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thewhitecompany",
+    "name": "The White Company",
+    "desc": "Join a war on the other side of someone to whom you have rented condottieri.",
+    "di": "E",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "tothebone",
+    "name": "To the Bone",
+    "desc": "As Bone, use pillage capital at least 7 times.",
+    "di": "E",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "tradehegemon",
+    "name": "Trade Hegemon",
+    "desc": "Starting as any European country, conquer and have cores on Aden, Hormoz and Malacca.",
+    "di": "E",
+    "steam_pct": 3.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "turnthetable",
+    "name": "Turn the Table",
+    "desc": "As a colony, break free and vassalize your former overlord without forming any other nation.",
+    "di": "M",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "turningthetide",
+    "name": "Turning the Tide",
+    "desc": "Start as a Steppe Horde in 1444 and embrace all institutions.",
+    "di": "VE",
+    "steam_pct": 2.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "vasaorwettin",
+    "name": "Vasa or Wettin?",
+    "desc": "Get a ruler of your dynasty on the throne of Poland or the Commonwealth while they are an elective monarchy.",
+    "di": "E",
+    "steam_pct": 8.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "vivalarevolucin",
+    "name": "Viva la Revolución!",
+    "desc": "Have rebels you support in another country enforce their demands.",
+    "di": "E",
+    "steam_pct": 4.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "votingstreak",
+    "name": "Voting Streak",
+    "desc": "Successfully pass 11 issues in a row in Parliament.",
+    "di": "E",
+    "steam_pct": 8.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "whereami",
+    "name": "Where Am I?",
+    "desc": "As a New World native with Random New World active, explore the entire New World.",
+    "di": "E",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "wingedhussars",
+    "name": "Winged Hussars",
+    "desc": "Have Winged Hussars as your active unit with more than +50% cavalry combat ability.",
+    "di": "E",
+    "steam_pct": 3.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "worlddiscoverer",
+    "name": "World Discoverer",
+    "desc": "Discover all non-wasteland land provinces.",
+    "di": "VE",
+    "steam_pct": 7.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "yougetanewhomeandyougetanewhome",
+    "name": "You Get A New Home, And You Get A New Home",
+    "desc": "Expel 5 different minorities to your colonies.",
+    "di": "E",
+    "steam_pct": 4.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "afinegoosestep",
+    "name": "A Fine Goosestep",
+    "desc": "Form Prussia and have at least 125% Discipline.",
+    "di": "E",
+    "steam_pct": 6.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "ataleoftwofamilies",
+    "name": "A tale of two Families",
+    "desc": "Starting as Vijayanagar or Bahmanis conquer the other’s capital and have them not exist.",
+    "di": "M",
+    "steam_pct": 3.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "aeiou",
+    "name": "AEIOU",
+    "desc": "Complete the Austrian mission tree.",
+    "di": "M",
+    "steam_pct": 1.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "allyourtradearebelongtous",
+    "name": "All Your Trade Are Belong to Us",
+    "desc": "Have the highest trade power in Genoa, Venice and English Channel while having an income of at least 300 ducats per month.",
+    "di": "M",
+    "steam_pct": 7.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "arabiancoffee",
+    "name": "Arabian Coffee",
+    "desc": "Form Arabia and be the nation producing the most coffee in the world.",
+    "di": "M",
+    "steam_pct": 2.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "atwixlegacy",
+    "name": "Atwix Legacy",
+    "desc": "Have 10 personal unions at the same time.",
+    "di": "M",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "barbarossa",
+    "name": "Barbarossa",
+    "desc": "As a Maghrebi nation, have 500 light ships privateering at the same time.",
+    "di": "M",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "bengaltiger",
+    "name": "Bengal Tiger",
+    "desc": "Start as Bengal and own Samarkand as a core province.",
+    "di": "M",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "bleedthemdry",
+    "name": "Bleed Them Dry",
+    "desc": "Have 10 different War Reparations being paid to you at the same time.",
+    "di": "M",
+    "steam_pct": 7.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "breakingtheyoke",
+    "name": "Breaking the Yoke",
+    "desc": "As Ryazan, own Saratov, Crimea and Kazan while being independent.",
+    "di": "H",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "carthagodelendaest",
+    "name": "Carthago Delenda Est",
+    "desc": "As an Italian culture nation, make sure entire Tunis Area is at 100 devastation.",
+    "di": "E",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "cherrypicking",
+    "name": "Cherrypicking",
+    "desc": "Conscript a 3 star general from a Daimyo Subject.",
+    "di": "E",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "corefu",
+    "name": "Core-fu",
+    "desc": "Force a nation to revoke 5 cores in one peace deal as Corfu.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "daralislam",
+    "name": "Dar al-Islam",
+    "desc": "Unify Islam under your rule.",
+    "di": "M",
+    "steam_pct": 2.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "definitelythesultanofrum",
+    "name": "Definitely the Sultan of Rum",
+    "desc": "Own and have cores on Rome, Moscow and Istanbul as Ottomans or Rum.",
+    "di": "M",
+    "steam_pct": 3.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "dontbecilli",
+    "name": "Don’t be Cilli",
+    "desc": "Starting as Cilli, form another nation.",
+    "di": "M",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "evenbetterthanpietheyn",
+    "name": "Even Better than Piet Heyn",
+    "desc": "Gain over 100 gold from privateering a single treasure fleet.",
+    "di": "M",
+    "steam_pct": 2.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "finefinancials",
+    "name": "Fine Financials",
+    "desc": "Own Eight level 3 Centres of Trade.",
+    "di": "M",
+    "steam_pct": 6.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "forodin",
+    "name": "For Odin!",
+    "desc": "Starting as a Norse custom nation with no more than 200 points and a maximum of 5 provinces, own & core Scandinavia and the British Isles and convert it all to Norse.",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "fuggerbanking",
+    "name": "Fugger Banking",
+    "desc": "As Augsburg, subsidize 3 Great Powers 20% of their income while having less than 20 provinces.",
+    "di": "H",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "gangeskhan",
+    "name": "Ganges Khan",
+    "desc": "Start as Tribal nation in India and become a Steppe Horde.",
+    "di": "M",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "georgiaonmymind",
+    "name": "Georgia on my Mind",
+    "desc": "Fully own all three Georgias.",
+    "di": "M",
+    "steam_pct": 3.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "goldrush",
+    "name": "Gold Rush",
+    "desc": "Reform the Golden Horde before 1500.",
+    "di": "H",
+    "steam_pct": 2.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "goldenhorn",
+    "name": "Golden Horn",
+    "desc": "As a Somali nation, fully own the Horn of Africa region and have a monthly gold income of at least 10 ducats.",
+    "di": "M",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "goldenwind",
+    "name": "Golden Wind",
+    "desc": "As Air, make 50 ducats profit per month and have 50% of your income made through gold provinces.",
+    "di": "M",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "greatmoravia",
+    "name": "Great Moravia",
+    "desc": "Restore the Great Moravian borders as Nitra or Moravia.",
+    "di": "M",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "hanukkahmutapa",
+    "name": "Hanukkah Mutapa",
+    "desc": "Starting as Mutapa, convert to Judaism and celebrate a festival.",
+    "di": "M",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "hessianmercenaries",
+    "name": "Hessian Mercenaries",
+    "desc": "As Hesse, have at least 50 regiments of mercenaries and no loans.",
+    "di": "M",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "hoarder",
+    "name": "Hoarder",
+    "desc": "As a Fetishist nation, have 13 available Cults.",
+    "di": "M",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "homeandaway",
+    "name": "Home and Away",
+    "desc": "As Wales, hold Cardiff, Dublin, Edinburgh, Rome, Paris and London.",
+    "di": "M",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "ideasguy",
+    "name": "Ideas Guy",
+    "desc": "Starting as a custom nation with the full 800 points but no more than 3 total development, have a monthly income of at least 500 ducats.",
+    "di": "M",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "industrialpowerhouse",
+    "name": "Industrial Powerhouse",
+    "desc": "Have 10 furnaces built in your nation.",
+    "di": "M",
+    "steam_pct": 5.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "italianambition",
+    "name": "Italian Ambition",
+    "desc": "Form Italy.",
+    "di": "M",
+    "steam_pct": 8.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "jemaintiendrai",
+    "name": "Je maintiendrai",
+    "desc": "Form the Netherlands as a minor nation starting with Dutch culture.",
+    "di": "M",
+    "steam_pct": 5.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "kingdomofgod",
+    "name": "Kingdom of God",
+    "desc": "Starting as the Papal State, become the Kingdom of God",
+    "di": "M",
+    "steam_pct": 2.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "kirishitanjapan",
+    "name": "Kirishitan Japan",
+    "desc": "Start as a Japanese Daimyo, convert yourself and all of Japan to Christianity.",
+    "di": "M",
+    "steam_pct": 1.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "kubancigars",
+    "name": "Kuban Cigars",
+    "desc": "As Kuba, own or have a subject own Havana and be the world’s leading producer of Tobacco.",
+    "di": "M",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "kushiterestoration",
+    "name": "Kushite Restoration",
+    "desc": "As a Nubian culture nation, own or have a non-Tributary subject own the entire Egyptian region.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "laughingstock",
+    "name": "Laughingstock",
+    "desc": "Own the provinces of Haha, Hehe and Lolland.",
+    "di": "M",
+    "steam_pct": 2.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "lessonsofhemmingstedt",
+    "name": "Lessons of Hemmingstedt",
+    "desc": "As Dithmarschen, hold the provinces of Sjaelland and Holland while Denmark do not exist.",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "lionofthenorth",
+    "name": "Lion of the North",
+    "desc": "Start as Sweden and lead the Protestant League to victory against the Emperor.",
+    "di": "M",
+    "steam_pct": 2.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "livelongandprosper",
+    "name": "Live Long and Prosper",
+    "desc": "Have 30 states with prosperity at the same time as you have a 70 year old ruler.",
+    "di": "M",
+    "steam_pct": 7.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "mansamusa",
+    "name": "Mansa Musa",
+    "desc": "As Mali, give 10k ducats away to another great power without having a single loan or being bankrupt.",
+    "di": "M",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "marketcontrol",
+    "name": "Market Control",
+    "desc": "Be trade leader of seven different goods.",
+    "di": "M",
+    "steam_pct": 10.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "maryoflotharingia",
+    "name": "Mary of Lotharingia",
+    "desc": "Starting as Burgundy, form Lotharingia and have a female ruler named Marie.",
+    "di": "M",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "myarmiesareinvincible",
+    "name": "My armies are invincible!",
+    "desc": "Gain at least 7.0 land morale.",
+    "di": "E",
+    "steam_pct": 13.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "napoleonsambition",
+    "name": "Napoleon’s Ambition",
+    "desc": "As Revolutionary France, spread the Revolution to 10 countries.",
+    "di": "M",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "neitherholynorgerman",
+    "name": "Neither Holy, Nor German",
+    "desc": "Have 7 Free Cities in the Empire, none of which is of a Germanic culture.",
+    "di": "M",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "nopiratesinmycaribbean",
+    "name": "No Pirates in my Caribbean",
+    "desc": "Own or have a subject own the entire Caribbean.",
+    "di": "M",
+    "steam_pct": 6.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "notjustpizza",
+    "name": "Not just Pizza",
+    "desc": "Become a Great Power as Naples.",
+    "di": "M",
+    "steam_pct": 4.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "notrailoftears",
+    "name": "No Trail of Tears",
+    "desc": "Own and have cores on the Thirteen Colonies as Cherokee with all institutions embraced.",
+    "di": "M",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "parisianpasha",
+    "name": "Parisian Pasha",
+    "desc": "Assign Pasha to Paris.",
+    "di": "M",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "polandcanintospace",
+    "name": "Poland can into space",
+    "desc": "As Poland, reach the maximum level in all technologies (32).",
+    "di": "VE",
+    "steam_pct": 2.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "redecorating",
+    "name": "Redecorating",
+    "desc": "Starting as an Orthodox Nation, Consecrate Metropolitan in Roma.",
+    "di": "M",
+    "steam_pct": 2.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "rekindlingtheflames",
+    "name": "Rekindling the Flames",
+    "desc": "Starting as a Zoroastrian custom nation with no more than 200 points and a maximum of 5 provinces, rekindle the royal fires.",
+    "di": "M",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "riseofthewhitesheep",
+    "name": "Rise of the White Sheep",
+    "desc": "As Aq Qoyunlu, own Tabriz and have Qara Qoyunlu not exist by 1478.",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "ruinaimperii",
+    "name": "Ruina Imperii",
+    "desc": "Dismantle the Holy Roman Empire.",
+    "di": "E",
+    "steam_pct": 8.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sakokulaw",
+    "name": "Sakoku Law",
+    "desc": "Go full isolationist in 6 Incidents.",
+    "di": "VE",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sinaasappel",
+    "name": "Sinaasappel!",
+    "desc": "Get Orangists in power with 100% Republican Tradition, and owning a province in China.",
+    "di": "M",
+    "steam_pct": 2.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sleeplessinseattle",
+    "name": "Sleepless in Seattle",
+    "desc": "Own 10 Coffee producing provinces, and have your capital in Salish.",
+    "di": "M",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sonsofcarthage",
+    "name": "Sons of Carthage",
+    "desc": "As Tunisia, own and have cores on Sicily, Sardinia, the Balearic Islands, the coast of Algiers and the southern coast of Spain.",
+    "di": "M",
+    "steam_pct": 1.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "supertrooper",
+    "name": "Super Trooper",
+    "desc": "Starting as Sweden, enact the Allotment System government reform, have 80 regiments of Carolean raised at the same time with at least +40% infantry combat ability.",
+    "di": "M",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "swahilipersuasion",
+    "name": "Swahili Persuasion",
+    "desc": "As Kilwa, convert all of the Moluccas and Indonesia.",
+    "di": "M",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "swedenisnotoverpowered",
+    "name": "Sweden is not overpowered!",
+    "desc": "Own and have cores on the entire Baltic coastline as Sweden.",
+    "di": "M",
+    "steam_pct": 3.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sweetharmony",
+    "name": "Sweet Harmony",
+    "desc": "Harmonize 7 religions as Confucian.",
+    "di": "E",
+    "steam_pct": 2.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "switzerlake",
+    "name": "Switzerlake",
+    "desc": "Own 99 provinces as Switzerland while owning no ports.",
+    "di": "M",
+    "steam_pct": 1.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "takethatvonhabsburgs",
+    "name": "Take that, von Habsburgs!",
+    "desc": "Starting as Hungary, own all of Austria as core provinces.",
+    "di": "M",
+    "steam_pct": 1.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "tatarstan",
+    "name": "Tatarstan",
+    "desc": "As Kazan or Nogai, own all Tatar culture group lands.",
+    "di": "M",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thatsnomon",
+    "name": "That's No Mon",
+    "desc": "As Pegu, own at least 50 provinces that are not of the Mon culture.",
+    "di": "M",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thebohemians",
+    "name": "The Bohemians",
+    "desc": "As Bohemia, own Dublin as a core province.",
+    "di": "M",
+    "steam_pct": 1.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theburgundianconquest",
+    "name": "The Burgundian Conquest",
+    "desc": "As Burgundy, own the Low Countries region as core provinces and have France and Austria as your subjects.",
+    "di": "M",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thefirsttoungooempire",
+    "name": "The First Toungoo Empire",
+    "desc": "As Taungu, unite the Burman culture group by 1500.",
+    "di": "VH",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theironprice",
+    "name": "The Iron Price",
+    "desc": "Restore the Danelaw region to Danish rule, and make it Danish culture.",
+    "di": "M",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theleagueofmayapan",
+    "name": "The League of Mayapan",
+    "desc": "Starting as Huastec, form Maya.",
+    "di": "M",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thelevantturnabout",
+    "name": "The Levant Turnabout",
+    "desc": "As the Mamluks, have 100 Army Professionalism and annex the Ottomans.",
+    "di": "M",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thenavigator",
+    "name": "The Navigator",
+    "desc": "As Portugal, own provinces in Africa, India and Indonesia before 1500.",
+    "di": "M",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theostenders",
+    "name": "The Ostenders",
+    "desc": "As Austria or AH have the District and Military Administration investments in the West Bengal area.",
+    "di": "M",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thepenismightierthanthesword",
+    "name": "The pen is mightier than the sword",
+    "desc": "Have three unions at the same time as Austria or Austria-Hungary.",
+    "di": "E",
+    "steam_pct": 6.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theprinceofegypt",
+    "name": "The Prince of Egypt",
+    "desc": "Starting as Florence, form Egypt.",
+    "di": "M",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "therisingsun",
+    "name": "The Rising Sun",
+    "desc": "Own and have cores on all of Japan as a European nation.",
+    "di": "M",
+    "steam_pct": 3.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thesudaneseexpedition",
+    "name": "The Sudanese Expedition",
+    "desc": "Starting as Morocco, conquer the Niger and Sahel Regions.",
+    "di": "M",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theuncommonwealth",
+    "name": "The Uncommonwealth",
+    "desc": "As Lithuania, become The Commonwealth.",
+    "di": "M",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thewhiteelephant",
+    "name": "The White Elephant",
+    "desc": "As Ayutthaya, own all of Indochina and Burma as core provinces.",
+    "di": "M",
+    "steam_pct": 1.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thisisfine",
+    "name": "This is fine",
+    "desc": "Have at least +10 Global Unrest and be in a winning coalition war, which was targeted against you.",
+    "di": "M",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thisnavycantakeitall",
+    "name": "This navy can take it all",
+    "desc": "Gain at least 7.0 naval morale.",
+    "di": "E",
+    "steam_pct": 11.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thisrevolutionwascrushed",
+    "name": "This Revolution Was Crushed",
+    "desc": "In a war against the target of the Revolution, control their capital and have at least 99% war score.",
+    "di": "M",
+    "steam_pct": 3.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "totalcontrol",
+    "name": "Total Control",
+    "desc": "Own 100 or more provinces with no local autonomy or unrest.",
+    "di": "M",
+    "steam_pct": 13.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "traditionalplayer",
+    "name": "Traditional Player",
+    "desc": "More than 90 percent Naval and Army Tradition.",
+    "di": "M",
+    "steam_pct": 5.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "trophyhunter",
+    "name": "Trophy Hunter",
+    "desc": "Capture an enemy flagship.",
+    "di": "E",
+    "steam_pct": 7.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "trustworthy",
+    "name": "Trustworthy",
+    "desc": "Have five allies with 100 trust towards you each.",
+    "di": "VE",
+    "steam_pct": 6.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "turtlesallthewaydown",
+    "name": "Turtles all the way down",
+    "desc": "As Korea get 135% Ship Durability.",
+    "di": "M",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "victorianthree",
+    "name": "Victorian Three",
+    "desc": "As Busoga, Buganda or Karagwe, reach administrative, diplomatic and military technology level 32.",
+    "di": "M",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "webledforthis",
+    "name": "We bled for this",
+    "desc": "Win a war with at least one million dead on both sides.",
+    "di": "M",
+    "steam_pct": 4.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "wherearethepenguins",
+    "name": "Where are the penguins?",
+    "desc": "As a Malagasy country, unite Madagascar and hold all the most southern provinces of the world.",
+    "di": "M",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "wonderful",
+    "name": "Wonderful",
+    "desc": "Own 8 different monuments on tier 3.",
+    "di": "M",
+    "steam_pct": 5.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "brentry",
+    "name": "Brentry",
+    "desc": "Starting as England, form the Angevin Kingdom and enact all the 'Acts of Crown' parliamentary issues.",
+    "di": "M",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "copiumwars",
+    "name": "Copium Wars",
+    "desc": "Starting and playing as Ming, own the Britain region.",
+    "di": "M",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "nocountryforoldtercios",
+    "name": "No Country for Old Tercios",
+    "desc": "As Spain, have Reformed Tercios, 33 Tercio Units, and control 3 Great Power capitals at the same time",
+    "di": "M",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thereapers",
+    "name": "The Reapers",
+    "desc": "Starting as Aragon, be a Peasant Republic and have Madrid and Paris owned by any Peasant Republic.",
+    "di": "M",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "ablessednation",
+    "name": "A Blessed Nation",
+    "desc": "As a Coptic Nation, gain all 5 Blessings.",
+    "di": "H",
+    "steam_pct": 2.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "adecentreserve",
+    "name": "A Decent Reserve",
+    "desc": "Have a maximum manpower of at least 1 million.",
+    "di": "M",
+    "steam_pct": 5.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "aheroswelcome",
+    "name": "A Hero’s Welcome",
+    "desc": "Starting as Karaman, form the Sultanate of Rum.",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "akaisernotjustinname",
+    "name": "A Kaiser not just in name",
+    "desc": "Form the Holy Roman Empire.",
+    "di": "E",
+    "steam_pct": 5.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "almostprussianblue",
+    "name": "Almost Prussian Blue",
+    "desc": "Starting as the Livonian Order, form Livonia and own the territory of the North German Confederation as core provinces.",
+    "di": "H",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "amanchuriancandidate",
+    "name": "A Manchurian Candidate",
+    "desc": "Start as one of the Jurchen tribes and form Qing.",
+    "di": "M",
+    "steam_pct": 3.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "anearlyreich",
+    "name": "An early Reich",
+    "desc": "Form Germany.",
+    "di": "M",
+    "steam_pct": 6.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "anglophile",
+    "name": "Anglophile",
+    "desc": "Complete all English and British missions.",
+    "di": "H",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "assemblyinstructionsneeded",
+    "name": "Assembly Instructions Needed",
+    "desc": "Form Scandinavia and revoke the privilegia of the Holy Roman Empire while being the Emperor.",
+    "di": "M",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "auldalliancereversed",
+    "name": "Auld Alliance Reversed",
+    "desc": "As Scotland, have France as a vassal (do not form Great Britain).",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "australiahungary",
+    "name": "Australia-Hungary",
+    "desc": "Starting as an Australian tribe unite Australia and subjugate Hungary.",
+    "di": "H",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "backincontrol",
+    "name": "Back in Control",
+    "desc": "Form Yuan and be the only nation holding land in China.",
+    "di": "M",
+    "steam_pct": 1.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "backtothepiast",
+    "name": "Back to the Piast",
+    "desc": "As Mazovia, Glogow or Opole, form the nation of Poland.",
+    "di": "H",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "balticcrusader",
+    "name": "Baltic Crusader",
+    "desc": "As Teutonic Order or Livonian Order, own all of Russia as core provinces and convert it to Catholic.",
+    "di": "H",
+    "steam_pct": 2.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "betterthannapoleon",
+    "name": "Better than Napoleon",
+    "desc": "As France, own Vienna, Berlin and Moscow as core provinces.",
+    "di": "M",
+    "steam_pct": 2.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "buntekuh",
+    "name": "Bunte Kuh",
+    "desc": "As Hamburg, trade in both Gems and Livestock.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "consulateofthesea",
+    "name": "Consulate of the Sea",
+    "desc": "As Aragon conquer all Mediterranean Centers of Trade.",
+    "di": "M",
+    "steam_pct": 2.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "dovmontsown",
+    "name": "Dovmont's Own",
+    "desc": "Starting as Pskov, have 100 standing Streltsy units.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "draculasrevenge",
+    "name": "Dracula's Revenge",
+    "desc": "Start as Wallachia or Moldavia, form Romania and own or have a subject own all of the Balkans.",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "emperorofhindustan",
+    "name": "Emperor of Hindustan",
+    "desc": "Starting as Delhi, Restore their Empire's borders.",
+    "di": "H",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "everythingscomingupmulhouse",
+    "name": "Everything's Coming Up Mulhouse",
+    "desc": "Starting as Mulhouse, become Emperor of the HRE and completely decentralize the Empire.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "fanaticcollectivist",
+    "name": "Fanatic Collectivist",
+    "desc": "Own all Institution Origin provinces.",
+    "di": "E",
+    "steam_pct": 3.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "forevergolden",
+    "name": "Forever Golden",
+    "desc": "Complete the Spanish Mission Tree.",
+    "di": "H",
+    "steam_pct": 1.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "fortheemperor",
+    "name": "For the Emperor!",
+    "desc": "Form Prussia or Germany, have the Empire government rank and 40.000 Marines raised at the same time.",
+    "di": "M",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "globalhegemony",
+    "name": "Global Hegemony",
+    "desc": "Reach 100% Strength as any type of Hegemon.",
+    "di": "E",
+    "steam_pct": 5.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "goodkingren",
+    "name": "Good King René",
+    "desc": "Start as Provence, form the Kingdom of Jerusalem.",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "guarantorofpeace",
+    "name": "Guarantor of Peace",
+    "desc": "Guarantee the Independence of France, The Ottoman Empire and Russia.",
+    "di": "H",
+    "steam_pct": 2.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "holyhorder",
+    "name": "Holy Horder",
+    "desc": "Starting as the Teutonic Order, form the Mongol Empire while have the Holy Horde government reform enacted.",
+    "di": "H",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "holytrinity",
+    "name": "Holy Trinity",
+    "desc": "As the Papacy, own Jerusalem and have Livonian Order, Teutonic Order and The Knights as Marches.",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "idontlikesand",
+    "name": "I don't like sand",
+    "desc": "Have the most development while owning no province with terrain other than desert or coastal desert.",
+    "di": "VH",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "itsallgreektome",
+    "name": "It's All Greek To Me",
+    "desc": "Form Greece and own and have cores on Zeta, Thatta, Lamba, and Roh.",
+    "di": "H",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "keeptheflameburning",
+    "name": "Keep the Flame Burning",
+    "desc": "As a Zoroastrian nation, own all Religious Centers and Monument Baku Ateshgah on tier 3.",
+    "di": "H",
+    "steam_pct": 1.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "kingofjerusalem",
+    "name": "King of Jerusalem",
+    "desc": "Form the Kingdom of Jerusalem as Cyprus or The Knights.",
+    "di": "H",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "kinslayer",
+    "name": "Kinslayer",
+    "desc": "As Tver, Yaroslavl, Ryazan, Beloozero, Rostov or Odoyev, eliminate all other Rurikovich nations without changing your ruling dynasty.",
+    "di": "H",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "knightsofthecaribbean",
+    "name": "Knights of the Caribbean",
+    "desc": "Starting as the Knights, own the Caribbean and every island in the Mediterranean. (Colonies are NOT allowed)",
+    "di": "H",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "lazarus",
+    "name": "Lazarus",
+    "desc": "As Serbia, own the entire Balkans as core provinces.",
+    "di": "H",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "luckoftheirish",
+    "name": "Luck of the Irish",
+    "desc": "Own and have cores on the British Isles as an Irish nation.",
+    "di": "H",
+    "steam_pct": 2.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "luckylucca",
+    "name": "Lucky Lucca",
+    "desc": "As Lucca, own Lucknow!",
+    "di": "H",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "marenostrum",
+    "name": "Mare Nostrum",
+    "desc": "Restore the Roman Empire and own the entire Mediterranean and Black Sea coast lines.",
+    "di": "H",
+    "steam_pct": 3.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "massproduction",
+    "name": "Mass Production",
+    "desc": "Starting as Odoyev, own one of every manufactory.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "masterofindia",
+    "name": "Master of India",
+    "desc": "Own and have cores on all of India as a European nation.",
+    "di": "H",
+    "steam_pct": 3.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "mewarneverchanges",
+    "name": "Mewar Never Changes",
+    "desc": "Complete the Mewar Mission Tree.",
+    "di": "M",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "ontherhodesagain",
+    "name": "On the Rhodes Again",
+    "desc": "Starting as The Knights, conquer and core Constantinople, Jerusalem and Antioch.",
+    "di": "H",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "onenationtorulethemall",
+    "name": "One nation to rule them all",
+    "desc": "As Saruhan, have at least 9 loyal vassals with at least 100 development each.",
+    "di": "H",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "stindiskkompagnite",
+    "name": "Østindisk Kompagni Te",
+    "desc": "As Denmark establish Trade company and have at least 10% Tea market share.",
+    "di": "E",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "overathousand",
+    "name": "Over a Thousand!",
+    "desc": "Own 1001 provinces directly.",
+    "di": "H",
+    "steam_pct": 3.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "pandyaempire",
+    "name": "Pandya Empire",
+    "desc": "Starting as Madurai, conquer the Pandya Territories.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "philippinetiger",
+    "name": "Philippine Tiger",
+    "desc": "As Cebu, recreate the Chola Empire.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "pickyourpoison",
+    "name": "Pick Your Poison",
+    "desc": "As Kaffa, develop in Cafa while a subject of yours owns it.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "presterjohn",
+    "name": "Prester John",
+    "desc": "Starting as Ethiopia, own and have cores on Alexandria, Antioch and Constantinople as a Coptic country.",
+    "di": "H",
+    "steam_pct": 2.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "protectthesecret",
+    "name": "Protect the Secret",
+    "desc": "As Yemen, prevent any European Nation from owning a Coffee-producing province in the Old World until 1700.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "qingofchina",
+    "name": "Qing of China",
+    "desc": "Become Chinese Emperor as Qing and own all of China.",
+    "di": "M",
+    "steam_pct": 2.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sailormon",
+    "name": "Sailor Mon",
+    "desc": "As Pegu, have at least 100,000 sailors.",
+    "di": "H",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "spaghettiwestern",
+    "name": "Spaghetti Western",
+    "desc": "Starting as Bologna, become Mexico or Texas.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "spainistheemperor",
+    "name": "Spain is the Emperor",
+    "desc": "Become the Emperor of the Holy Roman Empire as Spain.",
+    "di": "M",
+    "steam_pct": 2.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "spicegirls",
+    "name": "Spice Girls",
+    "desc": "Having a female ruler, have active trading bonuses for Cloves, Spices, Salt and Sugar.",
+    "di": "M",
+    "steam_pct": 2.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sterndessdens",
+    "name": "Stern des Südens",
+    "desc": "Form Bavaria starting as München and have your Subject Bremen own Werder.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "stiffupperlippe",
+    "name": "Stiff Upper Lippe",
+    "desc": "As Lippe, own all of the British Isles.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "suninvasion",
+    "name": "Sun Invasion",
+    "desc": "As the Madyas, own and have cores on Tepeacac, Mexico, Tullucan and Huastec.",
+    "di": "M",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "stardustcrusaders",
+    "name": "Stardust Crusaders",
+    "desc": "As Japan have the Land of the Christian Sun reform while Palestine and Cairo are Christian under us.",
+    "di": "M",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "swornfealty",
+    "name": "Sworn Fealty",
+    "desc": "Starting as an Arabian Tribal Federation, unite Arabia and have Maximum tribal Allegiance.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "terramariana",
+    "name": "Terra Mariana",
+    "desc": "As Riga, own or have a subject own the Baltic region.",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thatsasilkroad",
+    "name": "That's a Silk Road",
+    "desc": "Own or have a subject own all provinces in the world producing silk.",
+    "di": "H",
+    "steam_pct": 2.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "the52garhs",
+    "name": "The 52 Garhs",
+    "desc": "As Garhwal own and maintain 52 forts without going into debt.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theanimalkingdom",
+    "name": "The Animal Kingdom",
+    "desc": "As Manipur, unite the Bengal region and convert it to Animism.",
+    "di": "VH",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thechrysanthemumthrone",
+    "name": "The Chrysanthemum Throne",
+    "desc": "Unite Japan as a Daimyo.",
+    "di": "M",
+    "steam_pct": 5.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thefreestmanintheworld",
+    "name": "The Freest Man in the World",
+    "desc": "Ensure that no colonized province in the world produces slaves while having the War Against the World Doctrine government reform enacted.",
+    "di": "H",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thegrandarmada",
+    "name": "The Grand Armada",
+    "desc": "Have 500 heavy ships and no loans.",
+    "di": "M",
+    "steam_pct": 3.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thesunneversetsontheindianempire",
+    "name": "The Sun Never Sets on the Indian Empire",
+    "desc": "Form Hindustan or Bharat and own or have a subject own Cape, London, Hong Kong (Canton) and Ottawa (Kichessipirini).",
+    "di": "M",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thesebannersneedasaga",
+    "name": "These Banners need a Saga",
+    "desc": "Starting as a Jurchen nation, have 100 regiments of Banners raised at the same time.",
+    "di": "M",
+    "steam_pct": 1.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "tigerofmysore",
+    "name": "Tiger of Mysore",
+    "desc": "Starting as Mysore, Conquer the Deccan and Coromandel Regions.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "turkishdelight",
+    "name": "Turkish Delight",
+    "desc": "Start as Candar and own 20 Sugar provinces between you and your subjects.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "venetiansea",
+    "name": "Venetian Sea",
+    "desc": "Have a 75% Trade share in both the Alexandria and Constantinople nodes as Venice, owning less than 10 cities.",
+    "di": "H",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "whyisthermgone",
+    "name": "Why is the Rûm gone!?",
+    "desc": "As Asturias, establish an Order in Rum.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "withalittlehelp",
+    "name": "With a little help..",
+    "desc": "As Ragusa, lead a Trade League of at least 5 nations and guarantee the Ottomans’ independence.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "yarrharrapirateslifeforme",
+    "name": "Yarr Harr a Pirate's Life For Me",
+    "desc": "Choose to play as New Providence and conquer all of Caribbeans.",
+    "di": "M",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "tripletherome",
+    "name": "Triple the Rome",
+    "desc": "As Russia, be the Emperor of China and the HRE.",
+    "di": "H",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "asungod",
+    "name": "A Sun God",
+    "desc": "Form Inca, embrace all Institutions and own all of South America as core provinces.",
+    "di": "H",
+    "steam_pct": 1.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "academical",
+    "name": "Academical",
+    "desc": "As Athens, own 50 universities.",
+    "di": "VH",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "africanpower",
+    "name": "African Power",
+    "desc": "Own and have cores on all provinces in Africa as Kongo.",
+    "di": "H",
+    "steam_pct": 1.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "albaniaoriberia",
+    "name": "Albania or Iberia",
+    "desc": "As Albania, own or have a subject own Iberia and the Caucasus.",
+    "di": "VH",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "anunlikelycandidate",
+    "name": "An Unlikely Candidate",
+    "desc": "Starting as Mzab, Touggourt or Djerid, reform Al-Andalus.",
+    "di": "VH",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "aroundtheworldin80years",
+    "name": "Around the World in 80 Years",
+    "desc": "Starting as a Custom Nation of up to 400 points in the British Region, own New York, San Francisco, Suez, Bombay, Calcutta, Hong Kong and Yokohama by 1524.11.11.",
+    "di": "VH",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "avarkhaganate",
+    "name": "Avar Khaganate",
+    "desc": "Achieve Empire rank and conquer Hungary as Avaria.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "basileus",
+    "name": "Basileus",
+    "desc": "As Byzantium, restore the borders of the Eastern Roman Empire in the Balkans and Anatolia.",
+    "di": "H",
+    "steam_pct": 4.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "basqueinglory",
+    "name": "Basque in Glory",
+    "desc": "Starting as Navarra, ensure that most of Iberia is Basque culture before the Age of Absolutism.",
+    "di": "VH",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "bigblueblob",
+    "name": "Big Blue Blob",
+    "desc": "As France, hold 100 European core provinces before 1500.",
+    "di": "H",
+    "steam_pct": 2.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "chosonone",
+    "name": "Choson One",
+    "desc": "As Korea, own or have a subject own all Shinto, Confucian and Buddhist provinces in the world.",
+    "di": "H",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "cottonkandy",
+    "name": "Cotton Kandy",
+    "desc": "As Kandy be production leader in Cotton.",
+    "di": "H",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "crossingthefinnishline",
+    "name": "Crossing the Finnish Line",
+    "desc": "Release and play as Finland in 1444 and have a direct land connection to the Cape while your capital is in Nyland/Uusimaa.",
+    "di": "VH",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "empireofmann",
+    "name": "Empire of Mann",
+    "desc": "As Mann, conquer all Islands in the world.",
+    "di": "VH",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "firstcomefirstserve",
+    "name": "First Come, First Serve",
+    "desc": "Starting as a Western technology custom nation in North America or South America with no more than 200 points, unite the two continents.",
+    "di": "M",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "foremostservitorofjagannath",
+    "name": "Foremost Servitor of Jagannath",
+    "desc": "Start as Orissa and own or have a subject own all tropical wood provinces.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "frozenassets",
+    "name": "Frozen Assets",
+    "desc": "Start as Novgorod and control 90% of the trade power in the White Sea trade node while it is the highest valued trade node in the world.",
+    "di": "VH",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "gothicinvasion",
+    "name": "Gothic Invasion",
+    "desc": "Start as Theodoro and conquer all Germanic culture provinces in Europe.",
+    "di": "VH",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "greatperm",
+    "name": "Great Perm",
+    "desc": "As Perm, own or have a subject own the Russian, Siberian, Scandinavian, Canadian, Hudson Bay and Cascadian Regions.",
+    "di": "VH",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "illgrazemyhorsehereandhere",
+    "name": "I'll graze my horse here.. And here...",
+    "desc": "As a Horde, own over 200 provinces producing grain.",
+    "di": "H",
+    "steam_pct": 1.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "innerturmoil",
+    "name": "Inner Turmoil",
+    "desc": "Starting as The Isles, own 20 provinces by 1500, none of which are on Islands.",
+    "di": "VH",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "jihad",
+    "name": "Jihad",
+    "desc": "As Najd, own 500 Sunni provinces.",
+    "di": "VH",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "khaaaaaan",
+    "name": "KHAAAAAAN",
+    "desc": "Restore the Mongol Empire before the Age of Absolutism.",
+    "di": "VH",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "komnenoiempire",
+    "name": "Komnenoi Empire",
+    "desc": "As Trebizond, have the Empire government rank.",
+    "di": "H",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "meissnerporcelain",
+    "name": "Meissner Porcelain",
+    "desc": "As Saxony, own or have a subject own all Chinaware provinces in the world.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "neversaynevers",
+    "name": "Never say Nevers",
+    "desc": "As Nevers, own the entire France region as core provinces.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "newnewdeli",
+    "name": "New, New Deli",
+    "desc": "As Deli, have your capital in the Delhi province.",
+    "di": "H",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "norwegianwood",
+    "name": "Norwegian Wood",
+    "desc": "Own or have a subject own all naval supplies provinces as Norway.",
+    "di": "VH",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "quizquizproquo",
+    "name": "Quizquiz Pro Quo",
+    "desc": "As Quizquiz, have your capital in the Anjou province.",
+    "di": "VH",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "ragsandriches",
+    "name": "Rags and Riches",
+    "desc": "Have the highest income in the world while neither owning nor starting with a province with a development level higher than 10.",
+    "di": "VH",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "rajaoftherajputreich",
+    "name": "Raja of the Rajput Reich",
+    "desc": "Conquer all of Germany as Nagaur.",
+    "di": "VH",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "saladinslegacy",
+    "name": "Saladin's Legacy",
+    "desc": "Playing as Hisn Kayfa, reforge the Ayyubid Empire.",
+    "di": "VH",
+    "steam_pct": 1.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "shahanshah",
+    "name": "Shahanshah",
+    "desc": "Start as Ardabil and form Persia or Eranshahr.",
+    "di": "VH",
+    "steam_pct": 2.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "spanishfly",
+    "name": "Spanish Fly",
+    "desc": "Starting as Offaly, secure a Personal Union over an Iberian nation.",
+    "di": "VH",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "sunsetinvasion",
+    "name": "Sunset Invasion",
+    "desc": "Own and have cores on Lisbon, Madrid, Paris, London, Amsterdam and Rome as the Aztecs.",
+    "di": "VH",
+    "steam_pct": 1.1,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thebuddhistsstrikeback",
+    "name": "The Buddhists Strike Back",
+    "desc": "As Kotte or Kandy, own all of India and convert it to Theravada Buddhism.",
+    "di": "VH",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thefezzancorridors",
+    "name": "The Fezzan Corridors",
+    "desc": "As Fezzan, control at least 90% of the trade power in Tunis, Katsina, Safi and Timbuktu.",
+    "di": "H",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thegreatkhan",
+    "name": "The Great Khan",
+    "desc": "Starting as Mongolia or Great Horde, own or have a subject own the Chinese, Russian and Persian regions.",
+    "di": "H",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thepheasantstrut",
+    "name": "The Pheasant Strut",
+    "desc": "As Gorkha form Nepal and defeat Prussia with at least 100,000 Prussian casualties in a war (both have to be primary targets of war).",
+    "di": "H",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "therereconquista",
+    "name": "The Re-Reconquista",
+    "desc": "As Granada, form Andalusia and reconquer all of Iberia.",
+    "di": "H",
+    "steam_pct": 1.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thethirdway",
+    "name": "The Third Way",
+    "desc": "Start as an Ibadi nation and eliminate all rival schools of Islam (do not convert to another religion).",
+    "di": "VH",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thisispersia",
+    "name": "This is Persia!",
+    "desc": "Form Persia or Eranshahr, and own Egypt, Anatolia and Greece as core provinces.",
+    "di": "H",
+    "steam_pct": 2.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "ultimatemilitary",
+    "name": "Ultimate Military",
+    "desc": "As Songhai, have Prussia and Nepal as marches!",
+    "di": "H",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "wheretheheartis",
+    "name": "Where the heart is",
+    "desc": "As Dahomey, force all non-Fetishist nations out of Niger and Sahel by 1500.",
+    "di": "VH",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "worldconqueror",
+    "name": "World Conqueror",
+    "desc": "Own or have a subject own the entire world.",
+    "di": "VH",
+    "steam_pct": 2.2,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "allblue",
+    "name": "All Blue",
+    "desc": "As Portugal, all of Europe is owned by you or blue European countries that exist in 1444.",
+    "di": "VH",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "fromfrankfurttotheandes",
+    "name": "From Frankfurt to the Andes",
+    "desc": "Starting as Frankfurt, form Jerusalem, and then form the Inca while owning Mallorca.",
+    "di": "VH",
+    "steam_pct": 0.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "eatyourgreens",
+    "name": "Eat your Greens",
+    "desc": "Control all Grasslands in Asia as Kale before the age of Absolutism.",
+    "di": "I",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "onefaith",
+    "name": "One Faith",
+    "desc": "Have all non-wasteland land provinces in the world be of your religion.",
+    "di": "I",
+    "steam_pct": 1.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thethreemountains",
+    "name": "The Three Mountains",
+    "desc": "Own or have a subject own the entire world as Ryukyu.",
+    "di": "I",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "trueheiroftimur",
+    "name": "True Heir of Timur",
+    "desc": "Starting as a Timurid subject, form the Mughals and conquer India by 1550.",
+    "di": "I",
+    "steam_pct": 1.0,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "mehmetsambition",
+    "name": "Mehmet's Ambition",
+    "desc": "Starting as The Ottomans, own or have Core Eyalets own all the provinces required to form the Roman Empire before 1500.",
+    "di": "I",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "kingofkings",
+    "name": "King of Kings",
+    "desc": "Complete the Persian mission tree.",
+    "di": "H",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "restorethepentarchy",
+    "name": "Restore the Pentarchy",
+    "desc": "Starting as Byzantium, own Rome, Constantinople, Alexandria, Antioch, and Jerusalem while being Orthodox.",
+    "di": "H",
+    "steam_pct": 1.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "metshayk",
+    "name": "Mets Hayk",
+    "desc": "Starting as Karabakh, own, core, and convert to Coptic the borders of Great Armenia.",
+    "di": "VH",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "desertpower",
+    "name": "Desert Power",
+    "desc": "Starting as an Arabian Tribe, have the Oasis privilege enacted, and more than 1000 development in the Arabian Region.",
+    "di": "H",
+    "steam_pct": 0.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "breadbasketoftheworld",
+    "name": "Breadbasket of the World",
+    "desc": "As the Mamluks, export grain to every continent at least once.",
+    "di": "E",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "trulygoodmaaaaatch",
+    "name": "Truly Good Maaaaa-tch",
+    "desc": "Starting as either Aq Qoyunlu or Qara Qoyunlu, have a royal marriage and an alliance with Ramazan.",
+    "di": "VE",
+    "steam_pct": 0.9,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thelastcrusade",
+    "name": "The Last Crusade",
+    "desc": "Starting as Byzantium, control Venezia, and make sure that the country Venice doesn't exist.",
+    "di": "H",
+    "steam_pct": 1.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "legacyofsaintgeorge",
+    "name": "Legacy of Saint George",
+    "desc": "As Georgia, have as vassals Genoa, Aragon, England and Trier or their successors, and control Wales.",
+    "di": "VH",
+    "steam_pct": 0.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thezoroaustrians",
+    "name": "The Zoro-Austrians",
+    "desc": "Starting as Austria, convert to Zoroastrianism, and complete the Persian Zoroastrian missions.",
+    "di": "H",
+    "steam_pct": 0.4,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "itsallcomingtogether",
+    "name": "It's all coming together",
+    "desc": "Complete the Incan mission tree (Sunset invasion missions excluded).",
+    "di": "M",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "dogecoins",
+    "name": "Doge Coins",
+    "desc": "Starting as Venice, become the Economic Hegemon.",
+    "di": "M",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "veritasvincit",
+    "name": "Veritas Vincit",
+    "desc": "Starting as Bohemia, make Hussite the official faith of the Empire and become the Emperor.",
+    "di": "VH",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "theeaglefliesalone",
+    "name": "The Eagle flies alone",
+    "desc": "Starting as Hisn Kayfa, reach a forcelimit of 500k.",
+    "di": "VH",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "mayapahit",
+    "name": "Mayapahit?",
+    "desc": "Starting as any Mayan country, form Maya and own or have a subject own the island of Java.",
+    "di": "H",
+    "steam_pct": 0.3,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "therekhanonlybeone",
+    "name": "There Khan only be one!",
+    "desc": "Starting as a Steppe Horde, ensure there exists no other horde than you in the world.",
+    "di": "M",
+    "steam_pct": 0.7,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "baborg",
+    "name": "Baborg",
+    "desc": "As the Mughals, assimilate at least 12 culture groups.",
+    "di": "H",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "getoutofmyswamp",
+    "name": "Get out of my swamp!",
+    "desc": "As the Netherlands, own all of the Low Countries and have 50% or more Fort Defense.",
+    "di": "M",
+    "steam_pct": 0.8,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "timurizz",
+    "name": "Timurizz",
+    "desc": "Starting as the Timurids, have 75 prestige, and 5 allies with 100 Trust and 150 opinion.",
+    "di": "E",
+    "steam_pct": 0.5,
+    "dlc": [],
+    "ver": ""
+  },
+  {
+    "id": "thehungariangames",
+    "name": "The Hungarian Games",
+    "desc": "Starting as Hungary, win 23 battles with the Black Army against at least 12 different countries.",
+    "di": "M",
+    "steam_pct": 0.6,
+    "dlc": [],
+    "ver": ""
+  }
+]
